@@ -1,9 +1,11 @@
 h1{
     background-color: aqua;
     text-align: center;
+    font-family: Helvetica, sans-serif;
 }
 
 .firstRecipe{
     color: red;
     font-weight: bold;   
+    font-family: Tahoma, sans-serif;
 }
